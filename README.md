@@ -6,7 +6,7 @@ This repository contains my data analysis and machine learning projects built us
 
 ---
 
-**Introduction about Myself**
+**Introduction**
 
 Aspiring data analyst with a focus on statistical modeling and real-world data analysis. This repository showcases my projects in data analysis, visualization, and machine learning.
 
@@ -70,6 +70,9 @@ This dataset provides a simulated timeline of monthly gold and silver prices in 
 
 ## 🔗 Profiles
 Kaggle:
+https://www.kaggle.com/greatcool
+
+Datasets:
 https://www.kaggle.com/datasets/greatcool/social-media-usage-and-its-impact-on-users
 https://www.kaggle.com/datasets/greatcool/gold-and-silver-prices-india-2020-2026
 
@@ -86,7 +89,6 @@ Interested in Machine Learning, Data Analytics, and real-world problem solving
 ---
 
 **Sample Output**
-**Power Bi Dashboard for the project, "Sleep Cycle vs Student Performance"
-**
+**Power BI Dashboard - Sleep Cycle vs Student Performance**
 
 <img width="1229" height="680" alt="image" src="https://github.com/user-attachments/assets/716afeaf-6775-47e2-962f-528e0a49d6fb" />
