@@ -1,0 +1,34 @@
+ age,gender, occupation, regularly_used_platform, avg_time_socialmedia,avg_time_scale,most_used_platform, primary_purpose,time_of_usage,usage_scale, mood_before_socialmedia,scale_before,mood_after_socialmedia,scale_after,mood_impact_frequency,mood_scale,overall_mood_impact,overall_impact_scale,comparison_on_socialmedia,comparison_scale,task_distraction,distraction_scale,relaxation_after_socialmedia,relaxation_scale,usage_reduction_intent,usage_reduction_scale
+20-24,Female,Student,Instagram,more than 4 hours,5,Instagram,Chatting,Throughout the day,5,Stressed,1,Stressed,1,Often,4,Neutral,2,Sometimes,2,Sometimes,2,Sometimes,2,Maybe,1
+20-24,Female,Student,Instagram,more than 4 hours,5,Youtube,Learning,Throughout the day,5,Neutral,3,Neutral,3,Sometimes,3,Neutral,2,Sometimes,2,Sometimes,2,Sometimes,2,Maybe,1
+25-30,Male,other,Whatsapp,1-2 hours,2,Whatsapp,Chatting,Throughout the day,5,Lonely,0,Neutral,3,Sometimes,3,Negative,1,No,1,Yes,3,Sometimes,2,Yes,2
+25-30,Female,other,Whatsapp,more than 4 hours,5,Youtube,Entertainment,Throughout the day,5,Neutral,3,Happy,4,Often,4,Positive,3,No,1,Yes,3,Sometimes,2,Yes,2
+20-24,Female,Student,Whatsapp,3-4 hours,4,Instagram,Scrolling,Late night,4,Stressed,1,Neutral,3,Sometimes,3,Negative,1,Yes,3,Yes,3,Yes,3,Maybe,1
+under 20,Female,Student,Instagram,more than 4 hours,5,Youtube,Scrolling,Throughout the day,5,Happy,4,Stressed,1,Sometimes,3,Neutral,2,No,1,Yes,3,Sometimes,2,Maybe,1
+30+,Male,Working professional,X,1-2 hours,2,X,Learning,Late night,4,Neutral,3,Happy,4,Never,1,Positive,3,No,1,No,1,Yes,3,Yes,2
+20-24,Female,Student,Whatsapp,less than 1 hour,1,Instagram,Entertainment,Evening,3,Neutral,3,Neutral,3,Sometimes,3,Neutral,2,Sometimes,2,Sometimes,2,Sometimes,2,Maybe,1
+under 20,Female,Student,Youtube,1-2 hours,2,Youtube,Entertainment,Evening,3,Neutral,3,Happy,4,Sometimes,3,Positive,3,No,1,No,1,Yes,3,Maybe,1
+under 20,Female,Student,Instagram,more than 4 hours,5,Instagram,Beating loneliness,Late night,4,Neutral,3,Neutral,3,Sometimes,3,Neutral,2,Sometimes,2,Sometimes,2,Yes,3,Maybe,1
+20-24,Female,Student,Whatsapp,1-2 hours,2,Youtube,Scrolling,Evening,3,Happy,4,Happy,4,Never,1,Positive,3,No,1,No,1,Sometimes,2,Yes,2
+under 20,Female,Student,Whatsapp,1-2 hours,2,Youtube,Scrolling,Afternoon,2,Neutral,3,Happy,4,Rarely,2,Positive,3,Sometimes,2,Sometimes,2,Sometimes,2,Yes,2
+30+,Male,Working professional,Whatsapp,1-2 hours,2,Youtube,Learning,Throughout the day,5,Neutral,3,Happy,4,Rarely,2,Positive,3,Sometimes,2,No,1,Yes,3,Maybe,1
+30+,Female,Working professional,Youtube,1-2 hours,2,Youtube,Learning,Evening,3,Neutral,3,Neutral,3,Rarely,2,Positive,3,No,1,No,1,Sometimes,2,Yes,2
+30+,Female,Working professional,Whatsapp,less than 1 hour,1,Whatsapp,Scrolling,Late night,4,Neutral,3,Neutral,3,Rarely,2,Neutral,2,No,1,Yes,3,No,1,Yes,2
+20-24,Female,Student,Whatsapp,more than 4 hours,5,Instagram,Beating loneliness,Throughout the day,5,Stressed,1,Happy,4,Sometimes,3,Positive,3,No,1,Yes,3,Yes,3,Maybe,1
+30+,Female,other,Youtube,1-2 hours,2,Whatsapp,News,Afternoon,2,Neutral,3,Neutral,3,Sometimes,3,Neutral,2,Sometimes,2,Yes,3,Yes,3,Maybe,1
+30+,Female,Working professional,Youtube,less than 1 hour,1,Youtube,News,Afternoon,2,Neutral,3,Neutral,3,Never,1,Neutral,2,No,1,No,1,No,1,No,0
+30+,Female,Working professional,Youtube,1-2 hours,2,Youtube,Learning,Evening,3,Neutral,3,Neutral,3,Sometimes,3,Positive,3,Yes,3,Yes,3,Sometimes,2,Yes,2
+under 20,Female,Student,Youtube,3-4 hours,4,Youtube,Entertainment,Evening,3,Neutral,3,Happy,4,Never,1,Positive,3,No,1,Sometimes,2,Yes,3,Yes,2
+30+,Female,Working professional,Whatsapp,less than 1 hour,1,Youtube,Entertainment,Evening,3,Neutral,3,Neutral,3,Rarely,2,Neutral,2,Sometimes,2,No,1,Sometimes,2,Yes,2
+under 20,Female,Student,Whatsapp,more than 4 hours,5,Instagram,Chatting,Evening,3,Neutral,3,Happy,4,Rarely,2,Positive,3,Yes,3,Yes,3,Yes,3,Yes,2
+under 20,Female,Student,Snapchat,3-4 hours,4,Instagram,Chatting,Afternoon,2,Stressed,1,Neutral,3,Rarely,2,Neutral,2,Sometimes,2,Sometimes,2,Yes,3,Maybe,1
+30+,Female,other,Whatsapp,3-4 hours,4,Whatsapp,News,Throughout the day,5,Happy,4,Happy,4,Rarely,2,Positive,3,No,1,Sometimes,2,Sometimes,2,Yes,2
+30+,Female,Working professional,Facebook,less than 1 hour,1,Whatsapp,Chatting,Evening,3,Neutral,3,Neutral,3,Never,1,Neutral,2,No,1,Sometimes,2,Sometimes,2,Maybe,1
+20-24,Male,Working professional,Whatsapp,less than 1 hour,1,Instagram,Entertainment,Evening,3,Neutral,3,Neutral,3,Rarely,2,Neutral,2,No,1,No,1,No,1,No,0
+under 20,Female,Student,Instagram,3-4 hours,4,Instagram,Chatting,Late night,4,Neutral,3,Neutral,3,Rarely,2,Neutral,2,Sometimes,2,Sometimes,2,Sometimes,2,Yes,2
+30+,Female,other,Whatsapp,1-2 hours,2,Youtube,Learning,Throughout the day,5,Neutral,3,Anxious,0,Sometimes,3,Neutral,2,No,1,No,1,Sometimes,2,Yes,2
+30+,Female,other,Whatsapp,1-2 hours,2,Whatsapp,Beating loneliness,Afternoon,2,Neutral,3,Neutral,3,Sometimes,3,Neutral,2,No,1,No,1,Sometimes,2,Maybe,1
+under 20,Female,Student,Instagram,1-2 hours,2,Youtube,Learning,Afternoon,2,Lonely,0,Neutral,3,Sometimes,3,Neutral,2,No,1,Yes,3,Sometimes,2,Maybe,1
+under 20,Prefer not to say,Student,Youtube,3-4 hours,4,Youtube,Entertainment,Morning,1,Happy,4,Stressed,1,Sometimes,3,Neutral,2,Yes,3,Yes,3,No,1,Maybe,1
+30+,Female,Working professional,Whatsapp,1-2 hours,2,Whatsapp,Entertainment,Evening,3,Neutral,3,Neutral,3,Rarely,2,Neutral,2,No,1,No,1,Sometimes,2,No,0
+30+,Female,Working professional,Whatsapp,less than 1 hour,1,Whatsapp,News,Late night,4,Neutral,3,Neutral,3,Rarely,2,Neutral,2,No,1,Sometimes,2,Sometimes,2,Yes,2
