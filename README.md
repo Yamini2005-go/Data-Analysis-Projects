@@ -1,8 +1,18 @@
+
+
 # 📊 Data Analysis Projects
 
 This repository contains my data analysis and machine learning projects built using Python and real-world datasets.
 
 ---
+
+**Introduction about Myself**
+
+Aspiring data analyst with a focus on statistical modeling and real-world data analysis. This repository showcases my projects in data analysis, visualization, and machine learning.
+
+---
+
+**Projects**
 
 ## 📊 Project 1: Sleep Cycle vs Student Performance
 
@@ -64,3 +74,15 @@ https://www.kaggle.com/datasets/greatcool/gold-and-silver-prices-india-2020-2026
 Tableau: 
 https://public.tableau.com/app/profile/yamini.s8824/viz/PayDiscrimination_17748009371940/Sheet2
 https://public.tableau.com/app/profile/yamini.s8824/viz/unhealthy_machines_17747890963580/Dashboard1
+
+---
+
+## 👤 About Me
+Integrated M.Sc. Computational Statistics and Data Analytics student at VIT Vellore  
+Interested in Machine Learning, Data Analytics, and real-world problem solving
+
+---
+
+**Sample Output**
+
+<img width="1229" height="680" alt="image" src="https://github.com/user-attachments/assets/716afeaf-6775-47e2-962f-528e0a49d6fb" />
