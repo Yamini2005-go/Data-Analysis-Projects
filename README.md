@@ -41,4 +41,5 @@ Designed and published a dataset on Kaggle, collected via Google Forms, to study
 
 ## 🔗 Profiles
 Kaggle: https://kaggle.com/yourusername  
-Tableau: https://public.tableau.com/app/profile/yourname  
+Tableau: https://public.tableau.com/app/profile/yamini.s8824/viz/PayDiscrimination_17748009371940/Sheet2
+Tableau: https://public.tableau.com/app/profile/yamini.s8824/viz/unhealthy_machines_17747890963580/Dashboard1
