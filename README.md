@@ -59,7 +59,7 @@ This dataset provides a simulated timeline of monthly gold and silver prices in 
 ## 🔗 Profiles
 Kaggle:
 https://www.kaggle.com/datasets/greatcool/social-media-usage-and-its-impact-on-users
-[https://kaggle.com/yourusername  ](https://www.kaggle.com/datasets/greatcool/gold-and-silver-prices-india-2020-2026?select=actual_silver_rates_india.csv.xlsx)
+https://www.kaggle.com/datasets/greatcool/gold-and-silver-prices-india-2020-2026
 
 Tableau: 
 https://public.tableau.com/app/profile/yamini.s8824/viz/PayDiscrimination_17748009371940/Sheet2
