@@ -30,6 +30,8 @@ This project analyzes the relationship between sleep patterns and academic perfo
 - Pandas  
 - Matplotlib  
 
+### Outcome
+Identified key patterns showing how sleep duration influences academic performance.
 ---
 
 ## 📁 Project 2: Social Media Mood Analysis Dataset
@@ -84,5 +86,7 @@ Interested in Machine Learning, Data Analytics, and real-world problem solving
 ---
 
 **Sample Output**
+**Power Bi Dashboard for the project, "Sleep Cycle vs Student Performance"
+**
 
 <img width="1229" height="680" alt="image" src="https://github.com/user-attachments/assets/716afeaf-6775-47e2-962f-528e0a49d6fb" />
