@@ -6,13 +6,13 @@ This repository contains my data analysis and machine learning projects built us
 
 ---
 
-**Introduction**
+## 📌 Introduction
 
 Aspiring data analyst with a focus on statistical modeling and real-world data analysis. This repository showcases my projects in data analysis, visualization, and machine learning.
 
 ---
 
-**Projects**
+## 🚀 Projects
 
 ## 📊 Project 1: Sleep Cycle vs Student Performance
 
@@ -88,7 +88,8 @@ Interested in Machine Learning, Data Analytics, and real-world problem solving
 
 ---
 
-**Sample Output**
-**Power BI Dashboard - Sleep Cycle vs Student Performance**
+## 📊 Sample Output
+
+### Power BI Dashboard – Sleep Cycle vs Student Performance
 
 <img width="1229" height="680" alt="image" src="https://github.com/user-attachments/assets/716afeaf-6775-47e2-962f-528e0a49d6fb" />
