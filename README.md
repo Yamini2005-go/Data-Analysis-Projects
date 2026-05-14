@@ -93,3 +93,32 @@ Interested in Machine Learning, Data Analytics, and real-world problem solving
 ### Power BI Dashboard – Sleep Cycle vs Student Performance
 
 <img width="1229" height="680" alt="image" src="https://github.com/user-attachments/assets/716afeaf-6775-47e2-962f-528e0a49d6fb" />
+
+---
+**📊 Project 4: Heart Attack Risk Prediction & Data Pipeline**
+Description
+Developed an end-to-end data science pipeline to predict heart attack risks using the UCI Heart Disease dataset . The dataset was taken from kaggle. This project involved transitioning from raw, messy data to a validated predictive model with nearly 80% accuracy.
+
+**Dataset**
+https://www.kaggle.com/datasets/imnikhilanand/heart-attack-prediction
+---
+
+**Key Technical Contributions:**
+**Advanced Data Cleaning:** Handled missing values (represented as '?') by converting them to numeric types and applying mean imputation to maintain dataset integrity.
+
+**Feature Engineering:** Standardized feature scales using StandardScaler to ensure the model was not biased toward variables with larger ranges like Cholesterol levels.
+
+**Predictive Modeling:** Implemented a regression-based approach to estimate heart attack probability, achieving an R² score of 0.38.
+
+**Model Evaluation:** Developed a Confusion Matrix to visualize classification performance, achieving a final Accuracy of 79.6%.
+
+**Visual Analysis:** Created comparative visualizations (Actual vs. Predicted) to identify patterns in model error and variance.
+---
+
+**Tech Stack:**
+
+**Languages:** Python
+
+**Libraries**: Pandas, NumPy, Scikit-Learn (Linear Regression, Train-Test Split), Matplotlib, Seaborn
+
+**Tools:** Jupyter Notebook, Git/GitHub
