@@ -122,3 +122,25 @@ https://www.kaggle.com/datasets/imnikhilanand/heart-attack-prediction
 **Libraries**: Pandas, NumPy, Scikit-Learn (Linear Regression, Train-Test Split), Matplotlib, Seaborn
 
 **Tools:** Jupyter Notebook, Git/GitHub
+---
+
+**📊 **Project 5: # Synthetic Housing Data & Regression Pipeline**
+
+## Project Overview
+This project demonstrates an end-to-end data science workflow, starting from raw mathematical simulation to predictive machine learning modeling. Instead of using a static, pre-existing dataset, this script dynamically generates a **10,000-sample housing market dataset** based on realistic statistical dependencies. It then trains a Linear Regression model to predict property values based on both structural features and geographic constraints.
+
+## Key Components
+
+* **Algorithmic Data Generation:** Generates synthetic features using `numpy` probability distributions. Features include structural variables (`Square_ft`, `Bedrooms`), environmental infrastructure (`Water_Supply`), and geographic tiers (`Location`).
+* **Feature Dependency Logic:** Mimics real-world market mechanics by establishing mathematical correlations between variables (e.g., bedroom count directly scales the living area footprint; location dictates the baseline price per square foot).
+* **Data Preprocessing & Pipeline:** 
+  * Implements **One-Hot Encoding** (`pd.get_dummies`) to translate categorical features into a machine-readable format while utilizing `drop_first=True` to avoid the dummy variable trap.
+  * Applies **Standardization** (`StandardScaler`) to scale numeric inputs, ensuring stable model optimization.
+* **Predictive Modeling:** Splits the structured data into 70/30 train/test partitions, fits an `sklearn` `LinearRegression` architecture, and evaluates predictive accuracy using $R^2$ Score and Mean Squared Error (MSE).
+* **Visual Validation:** Generates a scatter plot mapping Predicted vs. Actual home values against an ideal reference line to visually diagnose model variance and residuals.
+
+## Tech Stack
+* **Language:** Python
+* **Data Manipulation:** `pandas`, `numpy`
+* **Machine Learning:** `scikit-learn`
+* **Data Visualization:** `matplotlib`
