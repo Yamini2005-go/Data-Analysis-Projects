@@ -144,3 +144,63 @@ This project demonstrates an end-to-end data science workflow, starting from raw
 * **Data Manipulation:** `pandas`, `numpy`
 * **Machine Learning:** `scikit-learn`
 * **Data Visualization:** `matplotlib`
+---
+
+**📊 **Project 6: **
+# Clean Time-Series Market Simulation Data & Forecasting
+
+An end-to-end data analysis and predictive modeling project that simulates financial market asset price dynamics and evaluates time-series characteristics using classical statistical models. This project utilizes an algorithmically generated, noise-controlled synthetic stock dataset representing a full 365-day trading timeline for the year 2025.
+
+---
+
+## 📈 Project Overview
+
+Predicting and modeling financial time-series data requires navigating non-stationary structures and stochastic trends. This project sets up a reliable, computationally reproducible simulation environment to benchmark statistical forecasting frameworks. 
+
+The pipeline includes:
+1. **Data Generation**: Sequencing asset closing prices using an additive trend and noise framework.
+2. **Feature Engineering**: Computing dynamic indicators including rolling trends and asset risk scales.
+3. **Stationarity Testing**: Applying rigorous statistical inference methods to check for unit roots.
+4. **Predictive Modeling**: Fitting linear autoregressive integrated moving average architectures to project price movements.
+
+---
+
+## 🧬 Data Architecture & Generation Methodology
+
+The asset dataset is generated programmatically without dependencies on live financial providers, ensuring deterministic reproducibility (locked with a fixed random seed of 42). 
+
+### Underlying Framework
+The daily asset prices are sequentially calculated using an **Additive Random Walk with Drift**. In this framework, the price at any given day is determined by taking the previous day's price, adding a fixed daily increment (the deterministic drift trend), and adding a random shock (stochastic white noise). This random noise component is independent, identically distributed, and drawn from a stable normal distribution centered perfectly at zero with a tightly controlled scale.
+
+### Feature Schema
+| Feature Column | Data Type | Description |
+| :--- | :--- | :--- |
+| **`Date`** | DateTime | Continuous daily calendar timeline running from `2025-01-01` to `2025-12-31`. |
+| **`Closed_price`** | Float | Simulated daily closing price of the asset based on the random walk model. |
+| **`Daily_Return`** | Float | Percentage price change calculated from the previous market day. |
+| **`Ma_20`** | Float | Rolling 20-day Simple Moving Average (SMA) tracking short-term trend dynamics. |
+| **`daily_volatility`** | Float | Rolling 14-day standard deviation of daily returns mapping historical asset risk scales. |
+
+---
+
+## 🛠️ Tech Stack & Key Libraries
+
+* **Language**: Python 3.12+
+* **Data Manipulation**: `Pandas`, `NumPy`
+* **Statistical Analysis**: `Statsmodels` (Augmented Dickey-Fuller Test, ARIMA processing)
+* **Visualization**: `Matplotlib`
+* **Model Diagnostics**: `Sklearn` (Evaluation metrics)
+
+---
+
+## 🚀 Analysis Workflow & Implementation
+
+### 1. Data Ingestion
+The dataset is fetched dynamically via raw file streams from the repository to avoid runtime storage dependency overheads:
+```python
+import pandas as pd
+
+url = "[https://raw.githubusercontent.com/Yamini2005-go/Data-Analysis-Projects/main/Stock_data%20(1).xlsx?raw=true](https://raw.githubusercontent.com/Yamini2005-go/Data-Analysis-Projects/main/Stock_data%20(1).xlsx?raw=true)"
+df = pd.read_excel(url)
+
+
