@@ -203,4 +203,17 @@ import pandas as pd
 url = "[https://raw.githubusercontent.com/Yamini2005-go/Data-Analysis-Projects/main/Stock_data%20(1).xlsx?raw=true](https://raw.githubusercontent.com/Yamini2005-go/Data-Analysis-Projects/main/Stock_data%20(1).xlsx?raw=true)"
 df = pd.read_excel(url)
 
+---
 
+
+### 📊 Project 7: Synthetic Financial Transactions & Fraud Detection
+
+#### Description
+This project focuses on analyzing customer financial transactions and detecting fraudulent activities using machine learning. The dataset contains 10,000 synthetic transaction records designed to simulate real-world payment behavior, risk metrics, and class imbalance in fraud detection.
+
+#### Work Done
+* **Data Preprocessing & Cleaning:** Cleaned and structured 10,000 transaction records, handling categorical encoding for payment channels, account types, and device interfaces.
+* **Exploratory Data Analysis (EDA):** Analyzed user transaction distributions, spending limits across merchant categories, and device channel trends.
+* **Risk & Fraud Evaluation:** Investigated transaction risk scores (`0.31` to `89.24`) relative to ground-truth fraud occurrences.
+* **Class Imbalance Management:** Handled minority class modeling challenges given the highly imbalanced dataset (1.26% fraud rate).
+* **Code & Pipeline:** Built modular scripts in `new_code.py` to streamline dataset loading, inspection, and baseline modeling.
